@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Taohuu',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/henry-xu/MY-BLOG-aa33cf7c6a194637a37ba3e066692cd8',
   author: 'henryxu',
 
   // open graph metadata (optional)
