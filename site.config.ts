@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Taohuu',
-  domain: 'https://www.notion.so/MY-BLOG-aa33cf7c6a194637a37ba3e066692cd8',
+  domain: 'www.notion.so/MY-BLOG-aa33cf7c6a194637a37ba3e066692cd8',
   author: 'henryxu',
 
   // open graph metadata (optional)
